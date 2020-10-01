@@ -30,6 +30,7 @@
 - [J Rahul](https://github.com/rahultesla)
 - [Rajat Bhardwaj](https://github.com/RajatBhardwaj007)
 - [Richa](https://github.com/richa1200)
+- [Shreyash](https://github.com/shreyash010)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
 - [Himanshu Pal](https://github.com/TechnonHims)
